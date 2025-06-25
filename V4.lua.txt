@@ -35,7 +35,7 @@ local ProtectGui = protectgui or (syn and syn.protect_gui) or function(f) end
 
 local Themes = {
 	Names = {
-		"SpeedHubX"
+		"Sex hub x"
 	},
 	SpeedHubX = {
 		Name = "SpeedHubX",
